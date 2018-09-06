@@ -9,10 +9,10 @@ OSX        Windows
 |TravisCI| |AppVeyor|
 ========== ==========
 
-.. |TravisCI| image:: https://travis-ci.org/qedsoftware/crashpad.svg?branch=hunter
-  :target: https://travis-ci.org/qedsoftware/crashpad/builds
+.. |TravisCI| image:: https://travis-ci.org/fire/crashpad.svg?branch=master
+  :target: https://travis-ci.org/fire/crashpad/builds
 
-.. |AppVeyor| image:: https://ci.appveyor.com/api/projects/status/utxn7dct6noicdkg/branch/hunter?svg=true
-  :target: https://ci.appveyor.com/project/ruslo/crashpad/history
+.. |AppVeyor| image:: https://ci.appveyor.com/api/projects/status/496b0ab4dhofg9us?svg=true
+  :target: https://ci.appveyor.com/project/fire/crashpad/history
 
 .. _Hunter: https://docs.hunter.sh
