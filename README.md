@@ -18,6 +18,10 @@ limitations under the License.
 
 [Crashpad](https://crashpad.chromium.org/) is a crash-reporting system.
 
+## Chibifire.com Fork
+
+This is a chibifire.com fork.
+
 ## Documentation
 
  * [Project status](doc/status.md)
